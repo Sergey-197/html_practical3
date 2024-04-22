@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    padding-bottom: 99px;
+}
+
+.header{
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+.top__content{
+    margin-top: 100px;
+    margin-bottom: 197px;
+}
+
+.title{
+    margin-bottom: 40px;
+}
+
+.top__buttons{
+    margin-top: 50px;
+}
+
+.button{
+    border-radius: 50px;
+    width: 140px;
+    height: 50px;
+    background: #f25822;
+    color: #fff;
+}
+
+
+
+
+
